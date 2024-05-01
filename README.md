@@ -25,3 +25,11 @@ Expense Tracking refers to the systematic monitoring, recording, and categorizat
 3)Summarise expense totals
 <br>
 4)Show remaining budget
+
+# INSTRUCTIONS
+1)OPEN maincode.py run it
+2)ENTER THE USER EXPENSES DATA
+3)DATA WILL SAVE INTO expense.csv FILE
+4)IT WILL SUMMARIZE THE DATA AND DISPLAY THE BUDGET SPENT, REMAINING BUDGET AND HOW MUCH BUDGET SHOULD SPEND PER DAY
+
+
