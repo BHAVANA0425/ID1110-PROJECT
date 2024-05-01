@@ -18,7 +18,10 @@ Expense Tracking refers to the systematic monitoring, recording, and categorizat
 3)SAVVULA VAISHNAVI 
 
 # PROCESS
-1)User enters expense
+1)User nters expensee
+<br>
 2)Save expense to csv file
+<br>
 3)Summarise expense totals
+<br>
 4)Show remaining budget
